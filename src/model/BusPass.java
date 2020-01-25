@@ -1,3 +1,4 @@
+//bus pass information
 package model;
 
 public class BusPass {

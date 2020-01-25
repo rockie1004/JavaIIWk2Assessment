@@ -1,3 +1,4 @@
+//tests the BusPassBusinessLogic class methods
 package tests;
 
 import static org.junit.Assert.assertEquals;

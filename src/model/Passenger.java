@@ -1,3 +1,4 @@
+//passenger account for purchase of bus pass, tracks eligibility for certain programs and pass types.
 package model;
 
 public class Passenger {

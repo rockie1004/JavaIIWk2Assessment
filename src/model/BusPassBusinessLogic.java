@@ -1,3 +1,4 @@
+//methods for the business logic to manage bus passes
 package model;
 
 public class BusPassBusinessLogic {

@@ -1,3 +1,5 @@
+//runs test class
+
 package tests;
 
 import org.junit.runner.JUnitCore;
